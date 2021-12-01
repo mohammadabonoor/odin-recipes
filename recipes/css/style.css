@@ -1,0 +1,43 @@
+h1{
+	color:blue;
+font-family: all;
+font-size:50px;
+margin:0;
+}
+body{
+	
+    font-size:24px;
+    font-weight:bold;
+    line-height:1.2em;
+     margin:0;
+}
+
+.box-1{
+	background-color:#333;
+	color:blue;
+
+	}
+	.box-2{
+		width:500px;
+		margin-top:5px;
+		margin-right:10px;
+		margin-bottom:5px;
+		margin-left:10px;
+		padding:5px 5px 5px 5px;
+		border-right:5px red solid;
+		border-left:5px red solid;
+		border-top:5px red solid;
+		border-bottom: :5px red solid;
+	}
+
+ }
+ .box-3 {
+ 	font-family:tahoma;
+ 	font-weight:800;
+ 	font-style:italic;
+ 	text-decoration:underline;
+ 	text-shadow:200px;
+ 	letter-spacing::0.2em;
+ 	word-spacing:1em;
+
+ }
